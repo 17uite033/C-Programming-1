@@ -6,6 +6,6 @@ scanf("%d",&n);
 if((n='A','E','I','O','U')||(n='a','e','i','o','u'))
 printf("Vowel");
 else 
-printf("Not a Vowel");
+printf("Consonant");
 return 0;
 }
